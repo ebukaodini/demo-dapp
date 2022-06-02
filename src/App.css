@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -22,6 +22,38 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.bgg-dark {
+  background-color: #282c34 !important;
+}
+
+.bgg-light {
+  background-color: #61dafb !important;
+}
+
+.fgg-dark {
+  color: #282c34 !important;
+}
+
+.fgg-light {
+  color: #61dafb !important;
+}
+
+.borderr {
+  border: 1px solid #61dafb !important;
+}
+
+.borderr-bottom {
+  border-bottom: 1px solid #61dafb !important;
+}
+
+.text-12 {
+  font-size: 12px !important;
+}
+
+.text-14 {
+  font-size: 14px !important;
 }
 
 .App-link {
