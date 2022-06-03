@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# DemoDApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A decentralized application to handle crypto payment on the client side.
+
+
+## Requirements
+
+Create a `.env` file and add the code block below to the file.
+
+```.env
+REACT_APP_INFURA_ID=<Infura-ID>
+
+# ORG
+REACT_APP_ORG_PRIVATE_KEY=<Payout-Wallet-Private-Key>
+REACT_APP_ORG_PUBLIC_ADDRESS=<Payout-Wallet-Public-Address>
+REACT_APP_USER_ADDRESS=<Payin-Wallet-Public-Address>
+```
 
 ## Available Scripts
 
