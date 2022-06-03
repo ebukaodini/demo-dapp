@@ -457,30 +457,3 @@ function App() {
 }
 
 export default App;
-
-
-/*
-accessList: null
-blockHash: null
-blockNumber: null
-chainId: 0
-confirmations: 0
-creates: null
-data: "0x"
-from: "0x918D40B3f6C77F567aed23c9f1B69d546f065FE7"
-gasLimit: BigNumber {_hex: '0x5208', _isBigNumber: true}
-gasPrice: BigNumber {_hex: '0x59682f0d', _isBigNumber: true}
-hash: "0x879da54e8acc7a33b813bf6c457748045bc647a82cc0b50f20c5e966858420cb"
-maxFeePerGas: BigNumber {_hex: '0x59682f0d', _isBigNumber: true}
-maxPriorityFeePerGas: BigNumber {_hex: '0x59682f00', _isBigNumber: true}
-nonce: 1
-r: "0xd6b582e3ea59240c0348ac1349052c5c6e3b5660c815ec6f1ff2221f68ddcda5"
-s: "0x59423ca554392f19b8f37e320dbc0ce3cc3730566bc5d2c0ef0efce842c5b2fc"
-to: "0x1241af1c9E0B6B50B74cD34502173E08B7f1ABea"
-transactionIndex: null
-type: 2
-v: 1
-value: BigNumber {_hex: '0x2386f26fc10000', _isBigNumber: true}
-wait: (confirms, timeout) => {…}
-[[Prototype]]: Object
-*/
